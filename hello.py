@@ -26,3 +26,6 @@ year = year + 1
 print(year)
 
 print(year + 1)
+
+# git config --global user.email gferrari18@my.whitworth.edu
+# git config --global user.name gferrari18
