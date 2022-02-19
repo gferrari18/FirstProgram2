@@ -13,3 +13,4 @@ print("20% tip = " + str(tip20) + " (Total = " + str(tip20+Total) + ")")
 print("25% tip = " + str(tip25) + " (Total = " + str(tip25+Total) + ")")
 
 
+
