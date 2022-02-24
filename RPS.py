@@ -1,9 +1,8 @@
 print("Welcome to Rock, Paper, Scissors!")
 print("Rock = 1, Paper = 2, Scissors = 3")
 usr = int(input("Enter your number: "))
-from multiprocessing import RLock
 import random
-bot = random.randrange(1,3)
+bot = random.randrange(1,4)
 
 
 
